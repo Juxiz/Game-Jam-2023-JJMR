@@ -12,6 +12,7 @@ public class Otherdragndrop : MonoBehaviour, /*IPointerDownHandler,*/ IPointerEn
     public bool outlined = false;
     public bool raycastable = true;
     public bool held = false;
+    public static Otherdragndrop whatholding;
     //public void OnPointerDown(PointerEventData eventData)
     //{
     //    Debug.Log("click");
@@ -69,6 +70,7 @@ public class Otherdragndrop : MonoBehaviour, /*IPointerDownHandler,*/ IPointerEn
             if (hover1.snapping)
             {
                 transform.position = hover1.snapping.snapposition;
+                Debug.Log("hej");
             }
             else
             {

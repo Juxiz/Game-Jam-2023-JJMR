@@ -13,13 +13,13 @@ public class hover1 : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
     public void OnPointerEnter(PointerEventData eventData)
     {
          Debug.Log("overother");
-        image.color = new Color32(255, 255, 255, 170);
+        //image.color = new Color32(255, 255, 255, 170);
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
         Debug.Log("not overother");
-        image.color = new Color32(255, 255, 255, 255);
+        //image.color = new Color32(255, 255, 255, 255);
     }
     void Update()
     {

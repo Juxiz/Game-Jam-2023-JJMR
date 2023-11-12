@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/PizzaInde.unity
+    guid: db06f928fa271954cb7a26edf4ef0618
+  - enabled: 1
     path: Assets/Scenes/StartScreen.unity
     guid: 9aa5e462d2853294ba95ed9ff2bc5f67
   - enabled: 1
@@ -20,4 +23,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Verden.unity
     guid: 405b730893cd33e4aac312da703bcd8b
+  - enabled: 1
+    path: Assets/Scenes/PizzaMand.unity
+    guid: 4b763fe2facf45645966f104ca6b20ef
+  - enabled: 1
+    path: Assets/Scenes/Cafe.unity
+    guid: 6b0c850eeacc3b64da19bb291a8ff177
+  - enabled: 1
+    path: Assets/Scenes/CafeTaler.unity
+    guid: 095d8fda55637464eaf060a75c20e58b
+  - enabled: 1
+    path: Assets/Scenes/StaldSnakkerBonde.unity
+    guid: 375b474e3e28d0b41a4462653786e71c
+  - enabled: 1
+    path: Assets/Scenes/Stald.unity
+    guid: 15a59ae882931324fa92c43c09404088
+  - enabled: 1
+    path: Assets/Scenes/StaldSnakkerHest.unity
+    guid: 929aab2ef99ae3144b0744721625977c
   m_configObjects: {}
